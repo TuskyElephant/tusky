@@ -18,4 +18,10 @@ Pengui was £9.99 (I think), Jelly Elephant was £24 (I think as well) and Giggl
 
 ![alt text](https://i.ebayimg.com/images/g/M4IAAOSw20VmJtLI/s-l400.jpg)
 
-[1^]: This is Tusky!
+[^1]: This is Tusky!
+
+## Tusky fun facts!
+- Tusky 1 was born on the 5th of October, 2021, but Tusky 1.2.0 was born on the 4th of January, 2025.
+- Tusky 1's brand was originally called 'Nature Planet' but the company renamed themselves and called themselves 'Living Nature'.
+- One of Tusky's ears are wonky.
+- He is my favourite toy!
