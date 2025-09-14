@@ -25,3 +25,16 @@ Pengui was £9.99 (I think), Jelly Elephant was £24 (I think as well) and Giggl
 - Tusky 1's brand was originally called 'Nature Planet' but the company renamed themselves and called themselves 'Living Nature'.
 - One of Tusky's ears are wonky.
 - He is my favourite toy!
+
+## Tusky's personality!
+- Tusky is a bubbly, funny elephant.
+- She loves to get new friends!
+- She's sometimes annoying and hyper...
+- But oh well!
+
+## Tusky's favourite foods!
+1. Tusky's all time favourite food are MERINGUE, just like me!
+2. Her second favourite is a CROISSANT!
+3. Her third favourite are JELLY BEANS!
+4. Next on her list are MARSHMALLOWS!
+5. At fifth place are SPRINKLES!
